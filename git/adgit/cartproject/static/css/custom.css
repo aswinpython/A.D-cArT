@@ -1,0 +1,99 @@
+/*** body ***/
+body{
+      font-family: 'Hedvig Letters Serif', serif;
+     }
+/*** nav ***/
+.nav-item{
+letter-spacing:.2em;
+          }
+.dropdown-item{
+               letter-spacing:.2em;
+               font-size:14px;
+               text_transform:uppercase;
+               }
+/*** footer***/
+.my_footer P{
+             padding-top:20px;
+             font-size:14px;
+             }
+.my_footer{
+           background-color: orange!important;
+           height:60px;
+            }
+   /*** category ***/
+.my_row_class {
+               padding-top:15px;
+                }
+.my_row_class .mx_auto{
+         color:black;
+         font-size:12px;
+         }
+.my_image{
+          width:100%;
+          height:auto;
+          }
+.my_title{
+          font-size:16px;
+          text_transform:uppercase;
+          letter-spacing:.2em;
+          }
+.my_image_padding{
+                  padding:5px;
+                  }
+.my_bottom_margin{
+                  margin-bottom:10px;
+                  }
+.card-body h4{
+            font-size:14px;
+            text_transform:uppercase;
+            letter_spacing:.2em
+            }
+.card-img-top {
+    width: 50%;
+    height: 20vw;
+    object-fit: cover;}
+      /*** product ***/
+.my_prod_row_class{
+                   padding-top:15px;
+                   padding-bottom:20px;
+                   }
+.my_prod_row_class.mx_auto{
+                           color:black;
+                           font-size:12px;
+                           text_transform:none;
+                           }
+.my_prod_title{
+               font-size:16px;
+               text_transform:uppercase;
+               letter_spacing:.2em;
+               padding-top:15px;
+               padding-bottom:10px;
+               }
+.my_prod_text{
+                padding-right:20px;
+               }
+                /*** Search ***/
+.my_search_text{
+                 padding-top:20px;
+                 }
+                 /*** Cart ***/
+.my_custom_table{
+                 min-width:400px;
+                 font-size:14px;
+                 }
+.my custom_thead{
+                  font-weight:normal;
+                  text_transform:uppercase;
+                  letter_spacing:.2em;
+                  background-color:red;
+                  }
+.custom_a{
+          text_decoration:none;
+          }
+.custom_icon{
+             text_decoration:none;
+             color:Blue;
+             }
+.my_custom_button{
+                  margin-top:5px;
+                  }
